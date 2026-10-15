@@ -1,31 +1,38 @@
 # CyberCrew — Cybersecurity Freelance Platform
 
-**CyberCrew** est une plateforme dédiée à la cybersécurité, conçue pour connecter les entreprises et les professionnels de la sécurité informatique.
+**CyberCrew** est une plateforme dédiée à la cybersécurité, conçue pour mettre en relation les entreprises et les professionnels de la sécurité informatique.
 
-Notre objectif est simple : **rendre les services de cybersécurité plus accessibles, transparents et efficaces.**
+Notre objectif est de rendre les services de cybersécurité plus accessibles, transparents et sécurisés.
 
 ## Notre mission
 
-CyberCrew permet aux entreprises de publier des missions de cybersécurité et aux professionnels qualifiés de proposer leurs compétences pour répondre à leurs besoins.
+CyberCrew permet aux entreprises de publier des missions de cybersécurité et aux professionnels de proposer leurs compétences pour répondre à leurs besoins.
 
 La plateforme vise à créer un environnement fiable où les entreprises peuvent trouver des experts pour renforcer la sécurité de leurs infrastructures numériques.
 
-## Fonctionnalités du projet
+## Fonctionnalités
 
-- **Recherche de missions :** découvrir des opportunités dans le domaine de la cybersécurité.
--  **Mise en relation :** connecter les entreprises avec des professionnels de la sécurité informatique.
-- **Missions spécialisées :** audits de sécurité, tests d'intrusion autorisés, analyse de vulnérabilités et sécurisation des systèmes.
--  **Paiements intégrés :** faciliter les transactions entre clients et prestataires.
-- **Gestion des missions :** suivre les demandes et les prestations depuis une plateforme centralisée.
+- **Publication de missions :** les entreprises peuvent proposer des missions adaptées à leurs besoins.
+- **Mise en relation :** connexion entre entreprises et professionnels de la cybersécurité.
+- **Services spécialisés :** tests d'intrusion autorisés, audits de sécurité, analyses de vulnérabilités et sécurisation des infrastructures.
+- **Paiements intégrés :** système de paiement destiné à faciliter les transactions.
+- **Gestion des comptes :** espace personnel pour les clients et les prestataires.
+- **Suivi des missions :** gestion des prestations depuis une interface centralisée.
 
 ## Notre vision
 
-Nous souhaitons développer une communauté de professionnels passionnés par la cybersécurité, dans laquelle les compétences techniques, la confiance et l'éthique occupent une place centrale.
+CyberCrew souhaite développer une communauté de professionnels passionnés par la cybersécurité, où la confiance, les compétences techniques et l'éthique sont au cœur des échanges.
 
-CyberCrew ambitionne de devenir une plateforme de référence pour les missions freelance en cybersécurité.
+Notre ambition est de devenir une plateforme de référence pour les missions freelance en cybersécurité.
 
 ## Développement
 
-CyberCrew est un projet en cours de développement. De nouvelles fonctionnalités et améliorations sont prévues pour offrir une expérience toujours plus complète.
+CyberCrew est un projet en cours de développement. De nouvelles fonctionnalités et améliorations sont progressivement intégrées afin d'offrir une expérience toujours plus complète.
+
+## Liens
+
+**Site officiel :** [https://cyberccrew.fr](https://cyberccrew.fr)
+
+**Fondateur :** [Antoine Plique](https://github.com/AntoinePlq)
 
 **CyberCrew — Connecting Cybersecurity Talents.**
