@@ -4,13 +4,13 @@
 
 Notre objectif est simple : **rendre les services de cybersécurité plus accessibles, transparents et efficaces.**
 
-## 🚀 Notre mission
+## Notre mission
 
 CyberCrew permet aux entreprises de publier des missions de cybersécurité et aux professionnels qualifiés de proposer leurs compétences pour répondre à leurs besoins.
 
 La plateforme vise à créer un environnement fiable où les entreprises peuvent trouver des experts pour renforcer la sécurité de leurs infrastructures numériques.
 
-## 💻 Fonctionnalités du projet
+## Fonctionnalités du projet
 
 - **Recherche de missions :** découvrir des opportunités dans le domaine de la cybersécurité.
 -  **Mise en relation :** connecter les entreprises avec des professionnels de la sécurité informatique.
