@@ -32,7 +32,7 @@ CyberCrew est un projet en cours de développement. De nouvelles fonctionnalité
 ## Liens
 
 **Site officiel :** [https://cyberccrew.fr](https://cyberccrew.fr)
-
-**Fondateur :** [Antoine Plique](https://github.com/AntoinePlq)
+**Fondateur :** Antoine Plique
 
 **CyberCrew — Connecting Cybersecurity Talents.**
+
